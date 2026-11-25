@@ -7,7 +7,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://mental-health-score-predictor-kfu0.onrender.com/predict';
+  const API_URL = 'https://mental-health-score-predictor-kfu0.onrender.com';
 
   // HTML elements
   const form = document.getElementById('predict-form');
